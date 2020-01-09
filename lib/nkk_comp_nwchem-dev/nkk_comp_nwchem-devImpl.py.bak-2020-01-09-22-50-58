@@ -23,8 +23,8 @@ class nkk_comp_nwchem-dev:
     # the latter method is running.
     ######################################### noqa
     VERSION = "0.0.1"
-    GIT_URL = "https://github.com/mcnaughtonadm/nkk_comp_nwchem-dev.git"
-    GIT_COMMIT_HASH = "7e1ed70a2190c7cc8d52a0468fddeb86695bb2c9"
+    GIT_URL = ""
+    GIT_COMMIT_HASH = ""
 
     #BEGIN_CLASS_HEADER
     #END_CLASS_HEADER
